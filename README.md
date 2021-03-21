@@ -3,7 +3,7 @@
 #Mini Programming Logic Project
 
 -  Using C Language & Switch Case Command.
-- Designed a Paper and Scissors Stone Mini Game. 
+- Designed a Mini Game: Paper, Scissors and Stone. 
 - Based on the Movie: "Terminator".
 
    :robot: :satellite: :desktop_computer::computer_mouse: :satellite::robot: ---> Skynet_Jokenpo <---  :robot: :satellite: :desktop_computer::computer_mouse: :satellite::robot:  
@@ -11,7 +11,7 @@
 #Mini Projeto de Lógica de Programação 
 
 - Utilizando a Linguagem C & Comando Switch Case.
-- Projetei um Mini Game de Pedra, Papel e Tesoura. 
+- Projetei um Mini Game: Pedra, Papel e Tesoura. 
 - Baseado no Filme: "Exterminador do Futuro".
 
    :robot: :satellite: :desktop_computer::computer_mouse: :satellite::robot: ---> Skynet_Jokenpo <​--- :robot: :satellite: :desktop_computer::computer_mouse: :satellite::robot: 
