@@ -1,5 +1,12 @@
-:man_student: Introdução a Programação :woman_student:
+# :man_student: C :woman_student:
 
-- Utilizando Linguagem C;
+##  Introdução a linguagem C;
 
-:coffee::nerd_face::computer: _Follow @Bruno_Sthill
+## Nível : Iniciante; 
+
+* Estudos;
+* Ideias;
+* Experiências;
+* Testes. 
+
+# ☕🤓💻 _ Follow @Bruno_Sthill
