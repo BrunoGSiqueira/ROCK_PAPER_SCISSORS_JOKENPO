@@ -7,31 +7,31 @@
 ### Vetor<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-### structure:
 
-:arrow_forward:  Without return;
+<p align="center">### structure:
 
-void name_var ( )
+<p align="center">:arrow_forward:  Without return;
 
-{
+<p align="center">void name_var ( )
 
-​	instruction;
+<p align="center">{
 
-} 
+<p align="center">​	instruction;
 
-:arrow_forward: With Retunr;
+<p align="center">} 
 
-int, float, double, char name_var ( )
+<p align="center">:arrow_forward: With Retunr;
 
-{
+<p align="center">int, float, double, char name_var ( )
 
-​	int var = ...;
+<p align="center">{
 
-​	instruction;
+<p align="center">​	int var = ...;
 
-​	return var;
+<p align="center">​	instruction;
 
-}
+<p align="center">​	return var;
+
+<p align="center">}
 
 </p align="center">
