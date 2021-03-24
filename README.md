@@ -1,6 +1,6 @@
-<p align="center"> #  :man_student: C :woman_student:
+#  <p align="center">:man_student: C :woman_student:
 
-<p align="center"> ##   Introdução a linguagem C;
+# <p align="center">Linguagem C;
 
 ##   Nível : Iniciante; 
 
@@ -30,5 +30,6 @@
 
 <p align="center">  * MATRIZ;<br>
 
-    
-# ☕🤓💻 _ Follow @Bruno_Sthill
+​    
+
+# <p align="center">☕🤓💻 _ Follow @Bruno_Sthill
