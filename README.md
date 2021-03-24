@@ -1,6 +1,6 @@
-# :man_student: C :woman_student:
+<p align="center"># :man_student: C :woman_student:
 
-##  Introdução a linguagem C;
+<p align="center">##  Introdução a linguagem C;
 
 ## Nível : Iniciante; 
 
