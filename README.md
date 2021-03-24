@@ -32,4 +32,4 @@
 
     
 
-# ☕🤓💻 _ Follow @Bruno_Sthill
+<p align="center"># ☕🤓💻 _ Follow @Bruno_Sthill
