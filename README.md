@@ -1,34 +1,34 @@
-# :man_student: C :woman_student:
+<p align="center"># :man_student: C :woman_student:
 
-##  Introdução a linguagem C;
+<p align="center">##  Introdução a linguagem C;
 
-## Nível : Iniciante; 
+<p align="center">## Nível : Iniciante; 
 
-* Estudos;
+<p align="center">* Estudos;
 
-* Ideias;
+<p align="center">* Ideias;
 
-* Experiências;
+<p align="center">* Experiências;
 
-* Testes. 
+<p align="center">* Testes. 
 
   
 
-  * PRINTF;<br>
+<p align="center">  * PRINTF;<br>
 
-  * SCANF;<br>
+<p align="center">  * SCANF;<br>
 
-  * FOR;<br>
+<p align="center">  * FOR;<br>
 
-  * WHILE;<br>
+<p align="center">  * WHILE;<br>
 
-  * DO WHILE;<br>
+<p align="center">  * DO WHILE;<br>
 
-  * SWITCH CASE;<br>
+<p align="center">  * SWITCH CASE;<br>
 
-  * VETOR;<br>
+<p align="center">  * VETOR;<br>
 
-  * MATRIZ;<br>
+<p align="center">  * MATRIZ;<br>
 
     
 
