@@ -2,7 +2,7 @@
 
 ##  <p align="center">Linguagem C;
 
-### <p align="center">IF, ELSE IF, ELSE;<br>
+### <p align="center">For<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -10,9 +10,9 @@
 
 for ( initialization; condition; increase) {
 
-​	...;
+ ...;
 
-​	cont++
+ cont++
 
 }
 
@@ -24,9 +24,9 @@ for ( int i = 0; i <= 10; i++)
 
 {
 
-​	...;
+ ...;
 
-​	cont++;
+ cont++;
 
 }
 
